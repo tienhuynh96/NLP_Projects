@@ -5,3 +5,4 @@ A Collection of projects and exercises on NLP
    Download dataset link:
    https://figshare.com/articles/dataset/MACCROBAT2018/9764942
    or https://brat.nlplab.org/standoff.html
+3. Question - Answering: On this demo, we approach on QA classification. Backbone is LSTM model. (demo code: Demo_Question_Answering_Classification_Approach.ipynb)
